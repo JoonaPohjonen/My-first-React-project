@@ -1,69 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# My first introduction to React
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
-### `npm start`
+  ## Overview
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  This is a practice project I created when I was first intoduced to React. The project was build during a cource in programming while I was still a studying at Metropolia University of Applied Sciences. The application is very bare-bones and the goal was to introduce students into basics of React. The application was built using class based components, since that seemed to be the norm in the early 2018.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+  The application is a simple single-page-application that displays 3 identical kitten images taken from a local state. Use of APIs to get the images was left out of the project, since the focus was kept mainly on basics of React.
 
-### `npm test`
+  ## Screenshot
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ![Preview for the IP address tracker](./public/React-kuva.PNG)
 
-### `npm run build`
+  ## My Process
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ### Built with
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+  - Sematic HTLM5 markup
+  - CSS
+  - JavaScript
+  - [React](https://reactjs.org/) - JS library
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ### What I learned
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# React
+  While making this project, I learned the basics of React. I learned to work with Reacts components and got an introduction to JSX.

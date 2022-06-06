@@ -15,7 +15,7 @@ export class TodoItem extends Component {
   render() {
     return (
         <div style={this.getStyle()}>
-          <img className="kitten" src="http://placekitten.com/200/200"/>
+          <img className="kitten" src="http://placekitten.com/200/200" alt="cute kitten"/>
           <div>
             <p>{ this.props.todo.title }</p>
             <p>
